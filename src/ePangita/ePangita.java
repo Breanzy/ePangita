@@ -1,4 +1,4 @@
-package EvalRecorder;
+package ePangita;
 
 import java.awt.Color;
 import java.io.File;
@@ -22,9 +22,9 @@ import org.apache.poi.ss.usermodel.DataFormatter;
 import org.apache.poi.ss.usermodel.Font;
 import org.apache.poi.xssf.usermodel.XSSFRichTextString;
 
-public class EvalRecorder extends javax.swing.JFrame {
+public class ePangita extends javax.swing.JFrame {
 
-    public EvalRecorder() {
+    public ePangita() {
         initComponents();
     }
 
